@@ -1,0 +1,30 @@
+﻿{
+	"version": 1532019878,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/fundosoma.png",
+		"images/botao_alt-sheet0.png",
+		"images/botao_alt-sheet1.png",
+		"images/star-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/frutas-sheet0.png",
+		"images/btnjogar-sheet0.png",
+		"images/btnjogar-sheet1.png",
+		"images/fruta1-sheet0.png",
+		"images/fruta2-sheet0.png",
+		"images/figura3-sheet0.png",
+		"media/som_acertar enrico.ogg",
+		"media/som_erro.ogg",
+		"media/start_enrico.ogg",
+		"media/finalwin.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
